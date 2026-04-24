@@ -1,0 +1,15 @@
+# Pastas de build do Maven/Java
+target/
+bin/
+build/
+
+# Configurações de IDEs
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+
+# Arquivos do sistema
+.DS_Store
+*.log
